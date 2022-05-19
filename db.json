@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "stuname": "ee",
+      "lname": "re",
+      "email": "xyz@gmail.com",
+      "image": "../picture/one.jpg",
+      "id": 5
+    },
+    {
+      "stuname": "rrbvghhuju",
+      "lname": "refgfg",
+      "email": "client@mail.com",
+      "image": "picture/one.jpg",
+      "id": 6
+    },
+    {
+      "stuname": "wedsds",
+      "lname": "redf",
+      "email": "barkha@gmail.com",
+      "image": "./picture/one.jpg",
+      "id": 7
+    },
+    {
+      "stuname": "",
+      "Lname": "",
+      "email": "",
+      "image": "./picture/one.jpg",
+      "id": 8
+    },
+    {
+      "stuname": "",
+      "Lname": "",
+      "email": "",
+      "image": "./picture/one.jpg",
+      "id": 9
+    },
+    {
+      "stuname": "",
+      "Lname": "",
+      "email": "",
+      "image": "./picture/one.jpg",
+      "id": 10
+    },
+    {
+      "stuname": "bgff",
+      "Lname": "jjjj",
+      "email": "tripathihariopm75@gmail.com",
+      "image": "./picture/one.jpg",
+      "id": 11
+    },
+    {
+      "stuname": "",
+      "Lname": "",
+      "email": "",
+      "image": "./picture/one.jpg",
+      "id": 12
+    }
+  ]
+}
